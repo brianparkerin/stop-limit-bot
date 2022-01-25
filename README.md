@@ -1,3 +1,3 @@
 # stop-limit-bot
 
-### Stop Limit Bot in Python for Trading Spot
+### Stop Limit Bot in Python for CryptoTrading Spot
